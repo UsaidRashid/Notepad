@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/aboutIcon.jpeg</file>
+        <file>Images/CopyIcon.jpeg</file>
+        <file>Images/CutIcon.jpeg</file>
+        <file>Images/FileopenIcon.png</file>
+        <file>Images/NewFileIcon.png</file>
+        <file>Images/PasteIcon.png</file>
+        <file>Images/SaveAsFileIcon.jpeg</file>
+        <file>Images/SaveFileIcon.jpeg</file>
+        <file>Images/UndoIcon.jpeg</file>
+        <file>Images/RedoIcon.png</file>
+    </qresource>
+</RCC>
